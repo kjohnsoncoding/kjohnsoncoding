@@ -4,7 +4,7 @@
 
 
 ### Follow Me
-<a href="https://www.linkedin.com/in/kjohnsoncoding/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="50px" height="50px"></a> <a href="https://trello.com/kylejohnson1985"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" width="50px" height="50px"></a> <a href="https://twitter.com/kjohnsoncoding"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="50px" height="50px"></a>
+<a href="https://www.linkedin.com/in/kjohnsoncoding/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="50px" height="50px"></a> <a href="https://trello.com/kjohnsoncoding"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" width="50px" height="50px"></a> <a href="https://twitter.com/kjohnsoncoding"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="50px" height="50px"></a>
 
 <!--
 **kjohnsoncoding/kjohnsoncoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
